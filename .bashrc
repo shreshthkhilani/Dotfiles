@@ -113,7 +113,7 @@ if ! shopt -oq posix; then
   fi
 fi
 
-alias 'ssh eniac'='ssh shreshth@eniac.seas.upenn.edu'
+alias eniac='ssh shreshth@eniac.seas.upenn.edu'
 alias priv='chmod 700'
 alias lsa='ls -a'
 
